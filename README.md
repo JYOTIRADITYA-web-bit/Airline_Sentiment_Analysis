@@ -73,3 +73,6 @@ Streamlit Dashboard
 3)ML Models: Logistic Regression (primary), Random Forest (optional)
 
 4)Deployment: Streamlit Dashboard
+
+## 🚀 Demo
+[View the live Streamlit app here](https://airlinesentimentanalysis-wccoeappaudxq86guygehw4.streamlit.app/)
